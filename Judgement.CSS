@@ -1,0 +1,35 @@
+body{ 
+    background-color: #000000
+}
+#header{
+    z-index: 1;
+    border: 2px solid #a4a790;
+    height: 50px;
+    background-color: #ae981e;
+    position: absolute;
+    
+    margin-top: 1px;
+    margin-right: 5px;
+    clear: both;
+}
+#left{
+    width: 13rem;
+    height: 500px;
+    float: left;
+    border: 2px solid #ae981e;
+    margin-top: 64px;
+    color: white;
+}
+#right{
+    color: #ae981e;
+    border: darkgoldenrod 2px solid;
+   float: center;
+   z-index: 2;
+   height: 565px;
+   margin-top: 64px;
+   text-align: center;
+   
+}
+p{
+    font-size: 20px;
+}
